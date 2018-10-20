@@ -142,6 +142,7 @@ AddOutputFilter chunkFilter
 				<Item Name="GetPDPCurrents.vi" Type="VI" URL="../GetPDPCurrents.vi"/>
 				<Item Name="WriteData.vi" Type="VI" URL="../WriteData.vi"/>
 				<Item Name="WriteHeaders.vi" Type="VI" URL="../WriteHeaders.vi"/>
+				<Item Name="steven 2.vi" Type="VI" URL="../steven 2.vi"/>
 			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
